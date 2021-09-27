@@ -1,0 +1,153 @@
+CloudPBX all Page path
+
+
+1)https://172.24.146.88/cloudpbx/System_configuration/login
+
+/var/www/html/cloudpbx/application/views/system_config/login.php
+
+
+2)2021, bizRTC Systems, All rights reserved ( Version 2.2 )
+Email : bizcare333@bizrtc.com (IN) +91-958.659.5760 (US) +1.972.584.1600
+
+This portion add in /var/www/html/cloudpbx/application/views/widgets/_layout_footer.php file
+
+
+3)https://172.24.146.88/cloudpbx/System_configuration/login
+
+Create new account  click create account and open model this code in /var/www/html/cloudpbx/application/views/system_config/login.php file
+
+
+4) After login system_configuration page path trunk and banch and all tab je show thai che eno path
+
+
+/var/www/html/cloudpbx/application/views/system_config/system_config.php
+
+  1) click trunk tab path
+   
+     =>/var/www/html/cloudpbx/application/views/system_config/trunk_master.php
+	 
+  2) click on Extension tab  path
+  
+	=>/var/www/html/cloudpbx/application/views/system_config/extension_details.php
+	
+  3) click on Routing tab  path
+  
+	=>/var/www/html/cloudpbx/application/views/system_config/trunkdid_details.php
+	
+  4)click on IVR config tab  path
+    
+	=>/var/www/html/cloudpbx/application/views/system_config/didrouting_with_ivr.php
+	
+  5)Click on E911 tab path
+  
+	=>/var/www/html/cloudpbx/application/views/system_config/e911.php
+	
+   6)Click on Page Detail tab path
+  
+	=>/var/www/html/cloudpbx/application/views/system_config/page_details.php	
+	
+   7)Click on Page Setting tab path
+  
+	=>/var/www/html/cloudpbx/application/views/system_config/page_setting.php	
+ 
+   8)Click on Faq tab
+   
+      =>/var/www/html/cloudpbx/application/views/system_config/faq.php
+  
+5)click on Account button and open model path
+
+/var/www/html/cloudpbx/application/views/system_config.php	
+
+6)click on branch button and open model path
+/var/www/html/components/page_tail.php and controller funcation step wiase
+  
+7)admin and user login karva mate je home page display thai che eno path
+
+/var/www/html/cloudpbx/application/controllers/secure.php and home method
+
+/var/www/html/cloudpbx/application/views/home.php
+
+8)admin login screen 
+
+
+
+
+2101-2102-2103
+
+CloudPBX centos username and password
+ip addr 17.24.146.2121
+password : Bizadmin@2021
+Username: bizadmin
+
+
+
+How install  Cloudpbx
+
+1)Step  Centos installl and tar file upload in /home/bizadmin and then create a new folder cpxinstall
+
+
+  tar file upload in /home/bizadmin foldee
+  
+  
+  2)tar -xvf cpbxbaseinstall_v114_31jul12.tar
+  
+  3)cd  Scripts
+  
+  4)sh presteps.sh
+  
+  4)step1.sh
+  
+  5)step2.php
+  
+  6)tar -xvf cpbxscripts_v114_31jul12.tgz
+  
+		execute
+		./initial
+		./xls2csv xls file name
+		./step2
+		./step3EXT
+		./step3IVR
+		./loadnewconfig
+		
+  7)Afetr then new tar file add in /home/bizadmin folder bizPBX_cloud_Installer_2.0.0.1.tar
+  
+      tar -xvf bizPBX_cloud_Installer_2.0.0.1.tar
+	  
+	  change directory path installer
+	  
+	  and then run sh file 
+	  
+	  sudo sh install_Softwares.sh 
+8)CloudPBX nu folder get karva mate
+
+installing Portal using the below script.
+Download from ticket number 11267 and copy on /home/bizadmin folder.
+untar bizPBX_cloud_Installer_2.0.0.1.tar.gz.
+install install_software.sh using Sudo sh install_software.sh.
+verify HTTPd, PHP, and MariaDB services.
+----------------------------------------------------
+step2:
+Download bizPBX_Portal_Code_Script.tar.gz and put on local centos machine in /home folder.
+untar using tar -xvf bizPBX_Portal_Code_Script.tar.gz and go under bizPBX_Portal_Code.
+run buildCPBX.sh using svn tag lastest svn tag.(ex.sh buildCPBX.sh 2_0_0_1 15May2021).
+copy downloaded cloudpbx code copy and paste on /var/www/html/(remote server).
+
+SVN tag username and password
+
+Username : ops
+password : ops@2020$
+
+sh buildCPBX.sh CPBX_2_2_25Aug2021 downloaded code in svn server
+
+============================================================================================================
+
+sudo sh install_Softwares.sh
+
+
+service mariadb status
+
+
+vim /etc/httpd/conf.d/ssl.conf
+
+
+sudo chown bizadmin.apache /var/www/html/cloudpbx/ -R  permission in cloudpbx folder
