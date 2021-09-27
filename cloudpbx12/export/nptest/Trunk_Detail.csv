@@ -1,0 +1,3 @@
+TenantName,BranchName,TrunkName,TrunkDID,Username,Password,Host,Port,Domain,DTMFMode,NAT,DirectRTP,RegisterTrunk
+nptest,ahm123,Nisha1,989898998989,nishaa,nishaa,898989898989,89898,8988,9898,N,N,Y
+nptest,ahm123,nisha,1234567890123,98754ni,987654,87778878787,7878,78787,8787,Y,Y,Y

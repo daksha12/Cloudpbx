@@ -1,0 +1,8 @@
+TenantName,BranchName,TrunkName,TrunkDID,Username,Password,Host,Port,Domain,DTMFMode,NAT,DirectRTP,RegisterTrunk
+bhavesh,Ahemdabad,Trunk2,1232133212,Trunk2,Trunk2,Trunk2,4323,Trunk2,Trunk2,Y,Y,Y
+bhavesh,Ahemdabad,Trunk3,1232133213,Trunk3,Trunk3,Trunk3,3333,Trunk3,Trunk3,N,N,Y
+bhavesh,Ahemdabad,Trunk1,1232133213,Trunk1,Trunk1,Trunk1,43234,Trunk1,Trunk1,N,N,Y
+bhavesh,Rajkot,Rajkot2,2,Rajkot2,Rajkot2,Rajkot2,2,Rajkot2,Rajkot2,Y,Y,Y
+bhavesh,Rajkot,Rajkot1,1,Rajkot1,Rajkot1,Rajkot1,1,Rajkot1,Rajkot1,N,N,Y
+bhavesh,test,trunk2,1234567891,username2,123,username2,3456,username1,username2,Y,Y,Y
+bhavesh,test,trunk1,1234567890,username1,123,username1,2343,rwer,ewr,Y,Y,Y

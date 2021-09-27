@@ -1,0 +1,2 @@
+TenantName,BranchName,TrunkName,TrunkDID,Extension,DIDType,"DIDMask (-- need support from trunk connected to this box)",FAXDID,FAX2Email,SMS,SMS2Email
+test22,b1,Nisha1,1234567570123,,indvoda1

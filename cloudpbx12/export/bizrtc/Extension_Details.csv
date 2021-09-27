@@ -1,0 +1,5 @@
+TenantName,BranchName,ExtensionType,Extension," DisplayID"," Voicemail"," VMToEmail"," VMTimeZone",TrunkName,OutboundDID,ISDAllowed,ParkRetrieve,CallRecording,CallMonitoring,PresenceBLF,Mobility,Synergy,PortalAccess,MobileNumber
+bizrtc,ahmedabad,Super,2001,Larry,Y,larry@bizrtc.com,-0900,,1205097544,Y,Y,Y,Y,Y,Y,Y,Y,
+bizrtc,ahmedabad,User,2002,Hank,Y,hank@bizrtc.com,-0600,,1205097544,Y,Y,Y,Y,Y,Y,Y,Y,
+bizrtc,mumbai,Super,1001,Tom,Y,ravi@bizrtc.com,+0530,cloudpbx,1205097015,Y,Y,Y,Y,Y,Y,Y,Y,9876543213
+bizrtc,mumbai,User,1002,Jim,Y,jim@bizrtc.com,+0700,,1205097015,Y,Y,Y,Y,Y,Y,Y,Y,9876543214

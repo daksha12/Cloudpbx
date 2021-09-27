@@ -1,0 +1,4 @@
+TenantName,BranchName,TrunkName,TrunkDID,Username,Password,Host,Port,Domain,DTMFMode,NAT,DirectRTP,RegisterTrunk
+test22,b1,Nisha1,999999999999,nptest,nptest,55555,12345,12345,12345,Y,Y,Y
+test22,B2,Nisha1,999999999999,nptest,nptest,55,12345,8988,9898,N,Y,Y
+test22,b3,b3,98765421350,user,uyse,gytyt,12345,yty,ty,Y,Y,Y

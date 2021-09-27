@@ -1,0 +1,5 @@
+TenantName,BranchName,ExtensionType,Extension," DisplayID"," Voicemail"," VMToEmail"," VMTimeZone",TrunkName,OutboundDID,ISDAllowed,ParkRetrieve,CallRecording,CallMonitoring,PresenceBLF,Mobility,Synergy,PortalAccess,MobileNumber
+nisha,ahmedabad,User,3001,1003,Y,1003@rtc.com,-0600,,,Y,Y,Y,Y,Y,Y,Y,Y,
+nisha,ahmedabad,User,3002,3002,Y,3002@rtc.com,-0500,,,Y,Y,Y,Y,Y,Y,Y,Y,
+nisha,ahmedabad,User,3003,3003,Y,3003@rtc.com,-0500,,,Y,Y,Y,Y,Y,Y,Y,Y,
+nisha,mumbai,Super,2001,jek,Y,nisha@rtc.com,-0500,,,Y,Y,Y,Y,Y,Y,Y,Y,

@@ -1,0 +1,3 @@
+TenantName,BranchName,TrunkName,TrunkDID,Extension,DIDType,"DIDMask (-- need support from trunk connected to this box)",FAXDID,FAX2Email,SMS,SMS2Email
+"bhavesh test",B1,table1,t1,t1,t1
+"bhavesh test",B2,table2,t2,t2,t2

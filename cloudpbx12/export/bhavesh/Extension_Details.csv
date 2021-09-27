@@ -1,0 +1,4 @@
+TenantName,BranchName,ExtensionType,Extension," DisplayID"," Voicemail"," VMToEmail"," VMTimeZone",TrunkName,OutboundDID,ISDAllowed,ParkRetrieve,CallRecording,CallMonitoring,PresenceBLF,Mobility,Synergy,PortalAccess,MobileNumber
+bhavesh,Ahemdabad,User,sdf,dsfasd,N,e1@gmail.com,-1100,,1,Y,Y,Y,Y,Y,Y,Y,Y,9876543210
+bhavesh,Rajkot,Super,11,sdf,Y,qewr@gmail.com,-1000,,2,Y,Y,Y,Y,Y,Y,Y,Y,
+bhavesh,test,Super,345,345,Y,jatin@bizrtc.com,-1100,,,Y,Y,Y,Y,Y,Y,Y,Y,

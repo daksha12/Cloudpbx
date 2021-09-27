@@ -1,0 +1,3 @@
+TenantName,BranchName,AccountCode,TrunkName,TrunkDID,BranchPrefix,MusicOnHold,10DigitCountryCode,ISDAllowed,ParkRetrieve,ParkExtension,NoOfParkingSlot,CallRecording,CallMonitoring,InterBranchcalls,TimeZone
+bhavesh,Ahemdabad,1020304050,Trunk1,1232133213,1,2,4,Y,Y,1001800,8,Y,Y,Y,-0400
+bhavesh,Rajkot,1020304050,Rajkot2,2,41,31,11,Y,Y,21,Y,Y,Y,Y,-0500

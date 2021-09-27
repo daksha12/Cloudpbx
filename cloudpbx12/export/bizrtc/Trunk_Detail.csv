@@ -1,0 +1,3 @@
+TenantName,BranchName,TrunkName,TrunkDID,Username,Password,Host,Port,Domain,DTMFMode,NAT,DirectRTP,RegisterTrunk
+bizrtc,ahmedabad,cloudpbx,1205097544,7775_rtcbiz,primea2014,pbx.bizrtc.com,7050,pbx.bizrtc.com,rfc2833,Y,Y,Y
+bizrtc,mumbai,cloudpbx,1205097015,7777_rtcbiz,primea2014,pbx.bizrtc.com,7050,pbx.bizrtc.com,rfc2833,Y,Y,Y

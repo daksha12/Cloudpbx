@@ -1,0 +1,7 @@
+TenantName,BranchName,TrunkName,TrunkDID,Username,Password,Host,Port,Domain,DTMFMode,NAT,DirectRTP,RegisterTrunk
+test,Branch01,indvoda1,1205097528,usname,psdw1,pbx.bizrtc.com,70500,pbx.bizrtc.com,info,Y,Y,Y
+test,Branch01,indvoda2,1205098529,user,user,pbx.rtc.com,7051,pbx.rtc.com,info,Y,Y,Y
+test,barnch2,vodaind2,1205097015,uname2,psdw2,pbx.bizrtc.com,70500,info,212,Y,Y,Y
+test,"barnch3 ",Nisha1,999999999999,nisha,nusha,nushahhh,12345,hh,hhh,Y,Y,Y
+test,"       ",12345,12345789654566,12345,12345,12345,21324,2233123,3233,Y,Y,Y
+test,"       ",nisha,1234567890123,12,123545,1221,22112,12,12,Y,Y,Y

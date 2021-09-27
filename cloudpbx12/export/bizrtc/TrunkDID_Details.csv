@@ -1,0 +1,5 @@
+TenantName,BranchName,TrunkName,TrunkDID,Extension,DIDType,"DIDMask (-- need support from trunk connected to this box)",FAXDID,FAX2Email,SMS,SMS2Email
+bizrtc,ahmedabad,cloudpbx,1205097016,1004|1003,extension
+bizrtc,ahmedabad,cloudpbx,1205097017,1005,extension
+bizrtc,mumbai,cloudpbx,1205097019,2007,extension
+bizrtc,mumbai,cloudpbx,1205097539,,conference

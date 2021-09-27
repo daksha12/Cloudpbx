@@ -1,0 +1,5 @@
+TenantName,BranchName,TrunkName,TrunkDID,Extension,DIDType,"DIDMask (-- need support from trunk connected to this box)",FAXDID,FAX2Email,SMS,SMS2Email
+bhavesh,Ahemdabad,Trunk1,23432432434,,extenstion
+bhavesh,Ahemdabad,Trunk3,23432432435,345345,CONFERENCE
+bhavesh,Rajkot,Rajkot1,64564564564,rty,rty
+bhavesh,test,trunk2,23432432434,,ssdf

@@ -1,0 +1,8 @@
+TenantName,BranchName,TrunkName,TrunkDID,OfficeStartTime(HH:MM)," OfficeEndTime(HH:MM)",OfficeDays,OfficeTimeIVRPromptFilename,IVRLevel,RingingSeconds,Choice1,Choice2,Choice3,Choice4,Choice5,Choice6,Choice7,Choice8,Choice9,DefaultChoice,OffTimeChoice
+nptest,ahm123,Nisha1,57877857878,08:00,20:00,mon|tue|wed,11,1,1,11,1,1,11,1,11,11,1,11,1,11
+nptest,ahm123,Nisha1,57877857878,08:00,20:00,mon|tue|wed,0,zsdjk,0,jkj,kjklj,kjklj,kjk,jkj,kjk,jkj,kj,kj,kjk,jk
+nptest,ahm123,Nisha1,57877857878,08:00,20:00,mon|tue|wed,0,jk,0,jk,mjhj,mjhj,jhjkh,jhjkh,jhjk,hkjh,jkh,j,lj,lj
+nptest,ahm123,Nisha1,57877857878,08:00,20:00,mon|tue|wed,0,jhj,0,kjhjk,hkjh,hkjh,kjh,jk,hkj,hj,hjk,hj,hjh,jkh
+nptest,ahm123,Nisha1,57877857878,08:00,20:00,mon|tue|wed,0,kjhjk,0,jk,hjk,hjk,jh,jh,khjk,hjk,jk,hj,hjk,jh
+nptest,ahm123,Nisha1,57877857878,08:00,20:00,mon|tue|wed,0,hghj,0,jh,hkjhkj,hkjhkj,hhkjhk,hkjhkjh,kjhkjhkj,jkhkjh,hkjh,hkjh,khkjh,khjkh
+nptest,ahm123,Nisha1,57877857878,08:00,20:00,mon|tue|wed,0,".,jkljasd",0,dklrjits,euewywqeyqwueyu,euewywqeyqwueyu,ueryuwryw,uwieyruew,iseyrs,df,sdf,sdf,sdf,gf

@@ -1,0 +1,16 @@
+TenantName,BranchName,ExtensionType,Extension," DisplayID"," Voicemail"," VMToEmail"," VMTimeZone",TrunkName,OutboundDID,ISDAllowed,ParkRetrieve,CallRecording,CallMonitoring,PresenceBLF,Mobility,Synergy,PortalAccess,MobileNumber
+test,Branch01,Super,1003,Tom,Y,b1@gmail.com,-1100,indvoda1,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,User,1001,1001,Y,b1@email.con,-0600,,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,Super,1004,Tom,Y,b1@gmail.cpm,-0600,,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,8780535238
+test,Branch01,User,1005,1005,N,b1@gmail.com,-1100,,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,Super,1006,1006,Y,b2@email.con,-0600,,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,User,1007,1007,Y,b2@gmail.coml,-0600,,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,User,1008,1008,Y,b2@gmail.com,-0800,,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,9824002105
+test,Branch01,Super,2001,2001,N,bs@gmail.com,-0500,,1234567890,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,User,2002,2002,Y,b1@gmail.com,-1100,indvoda1,1234567570123,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,User,2003,2003,Y,bs@gmail.com,-1100,indvoda1,1234567570123,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,User,2004,2004,Y,b1@gmail.com,-1100,indvoda2,1234567570123,Y,Y,Y,Y,Y,Y,Y,Y,
+test,Branch01,User,2005,2005,Y,b1@gmail.com,-1100,,1234567570123,Y,Y,Y,Y,Y,Y,Y,Y,
+test,barnch2,User,1231,1232,Y,123@hj.com,-1100,,,Y,Y,Y,Y,Y,Y,Y,Y,
+test,barnch2,User,1002,1234,Y,b2@rtc.com,+1200,,,Y,Y,Y,Y,Y,Y,Y,Y,
+test,"barnch3 ",Super,1001,1001,Y,b1@gmail.com,-0700,Nisha1,,Y,Y,Y,Y,Y,Y,Y,Y,

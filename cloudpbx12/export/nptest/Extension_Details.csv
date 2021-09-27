@@ -1,0 +1,2 @@
+TenantName,BranchName,ExtensionType,Extension," DisplayID"," Voicemail"," VMToEmail"," VMTimeZone",TrunkName,OutboundDID,ISDAllowed,ParkRetrieve,CallRecording,CallMonitoring,PresenceBLF,Mobility,Synergy,PortalAccess,MobileNumber
+nptest,ahm123,User,1,1,N,1@gmail.com,-1100,Nisha1,9898989898998989,Y,Y,Y,Y,Y,Y,Y,Y,1271236478

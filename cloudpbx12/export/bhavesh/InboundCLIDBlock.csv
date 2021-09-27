@@ -1,0 +1,4 @@
+TenantName,BranchName,TrunkDID,InboundCLIDBlock
+bhavesh,Ahemdabad,1234567890,9876543210|9876543211
+bhavesh,Rajkot,1234567890,35345234|234234
+bhavesh,Ahemdabad,9876543211,888888888|888888888

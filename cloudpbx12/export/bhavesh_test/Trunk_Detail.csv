@@ -1,0 +1,3 @@
+TenantName,BranchName,TrunkName,TrunkDID,Username,Password,Host,Port,Domain,DTMFMode,NAT,DirectRTP,RegisterTrunk
+"bhavesh test",asd,table1,1,table1,table1,table1,1,table1,table1,Y,Y,Y
+"bhavesh test",asasqw,table2,2,table2,table2,table2,2,table2,table2,N,N,Y

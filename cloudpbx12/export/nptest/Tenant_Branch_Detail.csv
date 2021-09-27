@@ -1,0 +1,2 @@
+TenantName,BranchName,AccountCode,TrunkName,TrunkDID,BranchPrefix,MusicOnHold,10DigitCountryCode,ISDAllowed,ParkRetrieve,ParkExtension,NoOfParkingSlot,CallRecording,CallMonitoring,InterBranchcalls,TimeZone
+nptest,ahm123,659397059,Nisha1,989898998989,7,6,58,Y,Y,12,21,Y,Y,Y,-0900

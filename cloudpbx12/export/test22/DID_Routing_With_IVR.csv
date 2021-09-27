@@ -1,0 +1,8 @@
+TenantName,BranchName,TrunkName,TrunkDID,OfficeStartTime(HH:MM)," OfficeEndTime(HH:MM)",OfficeDays,OfficeTimeIVRPromptFilename,IVRLevel,RingingSeconds,Choice1,Choice2,Choice3,Choice4,Choice5,Choice6,Choice7,Choice8,Choice9,DefaultChoice,OffTimeChoice
+test22,b1,Nisha1,12345678901,19:02,22:02,mon|tue|wed|thu|fri|sat|sun,98989,nisha1,9898989,12345,878,878,11,11,11,1,11,1,11,1
+test22,b1,Nisha1,12345678901,19:02,22:02,mon|tue|wed|thu|fri|sat|sun,8,8,88,8,88,88,8,45,8,8,8,8,88,88
+test22,b1,Nisha1,12345678901,19:02,22:02,mon|tue|wed|thu|fri|sat|sun,9,99,9,99,9,9,9,8,9,9,9,9,99,9
+test22,b1,Nisha1,12345678901,19:02,22:02,mon|tue|wed|thu|fri|sat|sun,1,1,11,1,11,11,1,88,1,1,1,1,11,1
+test22,b1,Nisha1,12345678901,19:02,22:02,mon|tue|wed|thu|fri|sat|sun,99,9879,9,99,9,9,9,9,,4,9,9,9,9
+test22,B2,Nisha1,12345678901,16:18,19:18,mon|tue|wed|thu,1,1,11,11,,,11,11,1,11,1,11,1,1
+test22,b3,b3,9865320103,,,,11,11,10,1002,1003,1003,,,,,,,1004,

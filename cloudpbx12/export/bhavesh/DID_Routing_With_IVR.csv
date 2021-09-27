@@ -1,0 +1,9 @@
+TenantName,BranchName,TrunkName,TrunkDID,OfficeStartTime(HH:MM)," OfficeEndTime(HH:MM)",OfficeDays,OfficeTimeIVRPromptFilename,IVRLevel,RingingSeconds,Choice1,Choice2,Choice3,Choice4,Choice5,Choice6,Choice7,Choice8,Choice9,DefaultChoice,OffTimeChoice
+bhavesh,Ahemdabad,Trunk1,1111111111,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level11,level11,11,level11,level11,level11,level11,level11,level11,level11,level11,level11,level11,level11
+bhavesh,Ahemdabad,Trunk1,1111111111,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level33,level33,33,level33,level33,level33,level33,level33,level33,level33,level33,level33,level33,level33
+bhavesh,Ahemdabad,Trunk1,1111111111,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level4,level4,4,level4,level4,level4,level4,level4,level4,level4,level4,level4,level4,level4
+bhavesh,Ahemdabad,Trunk2,2222222222,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level11,level11,11,level11,level11,level11,level11,level11,level11,level11,level11,level11,level11,level11
+bhavesh,Ahemdabad,Trunk2,2222222222,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level22,level22,22,level22,level22,level22,level22,level22,level22,level22,level22,level22,level22,level22
+bhavesh,Ahemdabad,Trunk2,2222222222,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level33,level33,33,level33,level33,level33,level33,level33,level33,level33,level33,level33,level33,level33
+bhavesh,Ahemdabad,Trunk2,2222222222,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level44,level44,0,level44,level44,level44,level44,,,,,,level44,
+bhavesh,Ahemdabad,Trunk1,1111111111,01:00,10:00,mon|tue|wed|thu|fri|sat|sun,level5,level5,5,level5,,,,,,,,,5,

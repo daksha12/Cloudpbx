@@ -1,0 +1,3 @@
+TenantName,BranchName,ExtensionType,Extension," DisplayID"," Voicemail"," VMToEmail"," VMTimeZone",TrunkName,OutboundDID,ISDAllowed,ParkRetrieve,CallRecording,CallMonitoring,PresenceBLF,Mobility,Synergy,PortalAccess,MobileNumber
+test22,b1,User,1003,1003,Y,1003@rtc.com,-0500,Nisha1,,Y,Y,Y,Y,Y,Y,Y,Y,
+test22,b3,Super,1231,7887,Y,787@rtc.com,-1100,,,Y,Y,Y,Y,Y,Y,Y,Y,
